@@ -162,14 +162,13 @@ This project demonstrates how Jenkins Remoting enables scalable and distributed 
 
 ## 👨‍💻 Author
 
-**Ahmed Mohammed Hamed**
+**Ahmed Mohamed El-bahnsy**
 
 ---
 
 ## 🔗 GitHub Repository
 
-https://github.com/ahmed1707hamed-tech/jenkins-remoting-project
-
+](https://github.com/AbdelrahmanElbahnsy/CodeAlpha-jenkins-distributed-builds)
 
 
 ---
