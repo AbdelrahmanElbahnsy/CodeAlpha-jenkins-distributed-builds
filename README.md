@@ -162,7 +162,7 @@ This project demonstrates how Jenkins Remoting enables scalable and distributed 
 
 ## 👨‍💻 Author
 
-**Ahmed Mohamed El-bahnsy**
+**Abdelrahman Mohamed El-bahnsy**
 
 ---
 
